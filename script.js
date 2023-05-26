@@ -1,4 +1,4 @@
-'use strict';
+ 'use strict';
 
 // function getAge(birthYear) {
 //   const age = 2021 - birthYear;
